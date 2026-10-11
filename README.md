@@ -1,20 +1,26 @@
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Adarsh+Singh+%F0%9F%91%8B;B.Tech+CSE+Student;Software+Development+Enthusiast;Full-Stack+Development+%7C+Problem+Solving" alt="Animated introduction" />
-</p>
+ <div align="center">
 
-<p align="center">
-  <strong>B.Tech Computer Science and Engineering | GLA University | Class of 2028</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Adarsh+Singh+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Development;Building+Projects+%26+Solving+Problems" alt="Animated introduction" />
 
-<p align="center">
-  Building practical applications, strengthening problem-solving skills, and learning new technologies through hands-on projects.
-</p>
+### B.Tech CSE Student · GLA University · Class of 2028
+
+*Building practical software. Learning deeply. Improving continuously.*
+
+<a href="https://www.linkedin.com/in/adarsh-singh-146172309/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/codeWithAdarsh14"><img src="https://img.shields.io/badge/GitHub-Follow-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/Adarshx_4232/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering at GLA University.
-- 💻 Programming with Java, Python, JavaScript, and SQL.
-- 🌐 Exploring full-stack development using the MERN stack.
+I'm a Computer Science student at GLA University interested in software engineering, backend development, and building useful applications. I enjoy solving programming problems and exploring technologies through hands-on projects.
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering (2024–2028).
+- 💻 Working with Java, Python, JavaScript, and SQL.
+- 🌐 Exploring full-stack development with the MERN stack.
 - ☁️ Learning Salesforce development, Docker, containers, and Kubernetes.
 - 🤖 Planning to explore Generative AI, LLMs, and RAG through structured learning and projects.
 
@@ -44,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB, MySQL" />
 </p>
 
-### Development Tools & DevOps
+### Tools & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes" alt="Git, GitHub, Docker, Kubernetes" />
@@ -52,13 +58,13 @@
 
 ### Salesforce Development
 
-Currently learning these technologies through the Student Placement Tracker project:
+*Currently learning through the Student Placement Tracker project.*
 
 **Apex · SOQL · Lightning Web Components (LWC)**
 
 ## 🚀 Featured Projects
 
-### 1. Student Placement Tracker
+### 01 · Student Placement Tracker
 
 A Salesforce-based placement management system designed to manage student profiles, company information, applications, and interviews.
 
@@ -70,30 +76,30 @@ A Salesforce-based placement management system designed to manage student profil
 
 **Technologies:** Salesforce, Apex, SOQL, Lightning Web Components.
 
-[View Project Repository](https://github.com/codeWithAdarsh14/Student-Placement-Tracker)
+[**Explore the repository →**](https://github.com/codeWithAdarsh14/Student-Placement-Tracker)
 
-### 2. Other Web Development Projects
+### 02 · Other Web Development Projects
 
 Explore my pinned repositories for my existing web development and backend projects.
 
-[View All Repositories](https://github.com/codeWithAdarsh14?tab=repositories)
+[**Browse all repositories →**](https://github.com/codeWithAdarsh14?tab=repositories)
 
 ## 🔭 Upcoming Project
 
-### UrbanPulse — Real-Time Urban Activity Mapping Platform
+### UrbanPulse — Real-Time Urban Activity Mapping
 
-UrbanPulse is a planned location-aware, community-driven platform for discovering, reporting, and verifying nearby urban activities and problems, such as traffic congestion, waterlogging, road damage, and local events.
+UrbanPulse is a planned, location-aware, community-driven platform for discovering, reporting, and verifying nearby urban activities and problems, such as traffic congestion, waterlogging, road damage, and local events.
 
 **Planned Features**
-- Location-based discovery through an interactive map.
+- Location-based discovery through interactive maps.
 - Community reporting and confirmation of local events.
-- Geospatial queries for nearby activities.
-- Real-time updates through Socket.IO.
+- Geospatial queries to find nearby activities.
+- Real-time updates using Socket.IO.
 - Event confidence scoring based on confirmations, recency, and evidence.
 
 **Planned Technologies:** React.js, Node.js, Express.js, MongoDB, Leaflet, Socket.IO, and geospatial queries.
 
-*Project currently in the planning stage.*
+<sub>Project currently in the planning stage.</sub>
 
 ## 📚 Current Learning Goals
 
@@ -103,22 +109,18 @@ UrbanPulse is a planned location-aware, community-driven platform for discoverin
 - Explore Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 - Build reliable, maintainable, and well-documented software applications.
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/adarsh-singh-146172309/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/codeWithAdarsh14">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/Adarshx_4232/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
-
 ---
 
-<p align="center">
-  <em>Learning continuously. Building consistently. Improving every day.</em>
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adarsh-singh-146172309/"><img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/codeWithAdarsh14"><img src="https://img.shields.io/badge/GitHub-codeWithAdarsh14-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/Adarshx_4232/"><img src="https://img.shields.io/badge/LeetCode-Adarshx__4232-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
+
+<div align="center">
+
+*Learning continuously · Building consistently · Improving every day*
+
+</div>

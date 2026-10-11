@@ -62,6 +62,12 @@ UrbanPulse is a planned location-aware, community-driven platform for discoverin
 - Explore Generative AI, LLMs, and RAG through structured learning and practical projects.
 - Build reliable, maintainable, and well-documented software applications.
 
+
+## 🐍 Contribution Graph
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/codeWithAdarsh14/codeWithAdarsh14/output/github-contribution-grid-snake-dark.svg)
+
+
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** [Adarsh Singh](https://www.linkedin.com/in/adarsh-singh-146172309/)
